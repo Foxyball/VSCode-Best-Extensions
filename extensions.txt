@@ -1,0 +1,21 @@
+Auto Rename Tag
+Beautify
+Bracket Pair - ADDED TO VSCODE BY DEFAULT
+CSS Peek
+Discord Presence
+ESLint
+HTML CSS Support
+HTML Snippets
+Javascript (ES6) code
+Laravel Blade Snippets
+Laravel Snippets
+Live Server
+markdownlint
+Material Icon 
+Material Product Icons
+Path Intellisense
+PHP Debug
+PHP Intelephense
+Prettier
+Remote SSH
+Region folding for VS Code
